@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-01.
+title: COVID-19 확산에 대한 유전체 분석. 2020년 5월 1일 상황 보고서
 authors:
   - Sidney Bell  
   - Nicola Müller
@@ -18,12 +18,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Taehoon Ha
 translatorLinks:
+  - https://taehoonh.github.io/
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
-date: 2020-May-01
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on outbreak dynamics in Central and Eastern Europe."
+date: 2020년 5월 1일
+abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19의 전파를 추적합니다. 이번 주, 저희는 유럽 중부와 동부 지역에 초점을 맞추어 보았습니다."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,125 +33,126 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
+# [목차](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
-* [Updates for Russia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
-* [Updates for the Czech Republic](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
-* [Updates for Turkey](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
-* [Updates for Poland](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
-* [Data from Hungary, Slovakia, Slovenia and Latvia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
+* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
+* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
+* [러시아의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
+* [체코의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
+* [터키의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
+* [폴란드의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
+* [헝가리, 슬로바키아, 슬로베니아, 라트비아 데이터](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
+* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
+* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 개요
 
-We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on Central & Eastern Europe and report:
+저희는 4,442개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계 곳곳으로 퍼지고 있는지 분석할 수 있습니다. 이번 주, 저희는 유럽 중부와 동부에 초점을 맞추어 보았고, 다음 내용을 새롭게 추가합니다:
 
-* Many introductions to Russia  
-* Heterogeneous outbreak in Moscow  
-* Majority of St. Petersburg outbreak tied to a single introduction, most likely from Western Europe  
-* Extensive mixing of cases across Turkey following repeated travel-related introductions  
-* At least 5 local transmission chains in the Czech Republic, mostly likely due to repeated introductions from Western Europe
-* At least 11 separate introductions to Poland
-* Early samples from Hungary, Latvia, Poland, Slovakia and Slovenia  
+* 다수의 유입이 있었던 러시아 
+* 외부 유입종이 확산 중인 모스크바
+* 상트페테르부르크 유행의 대다수는 서부 유럽으로부터 온 1건의 유입과 관련이 있음
+* 반복적인 여행 관련 유입 이후, 터키 전역에서 광범위한 뒤섞임이 발생함
+* 서유럽으로부터 유입된 것으로 추정되는 최소 5건의 전파 연쇄가 체코 내에서 발견됨.
+* 적어도 11건의 개별적인 유입이 있었던 폴란드
+* 헝가리, 라트비아, 폴란드, 슬로바키아, 슬로베니아로부터 받은 초기 표본
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
+이 정보들은 저희가 이 보고서에서 제시한 내용을 이해하는데 도움을 줄 것입니다.
+#### Nextstrain 관련자료  
+* [여기부터 시작하세요: 계통수를 읽는 법](https://nextstrain.org/narratives/trees-background/ko).  
+* [코로나바이러스 관련 배경지식](https://nextstrain.org/help/coronavirus/human-CoV).
+* [흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [How SARS-CoV-2 mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Why the coronavirus is so confusing](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
+#### 외부 자료 
+* [어떻게 SARS-CoV-2 바이러스가 변이하고 확산되는가](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [과학자에게 물어보세요 & 자주 묻는 질문](https://covid19.fas.org/).
+* [WHO 상황 보고서](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [미국 질병통제예방센터에서 제공하는 자료](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [코로나 바이러스는 왜 이렇게 혼란스러울까](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/europe/2020-05-01?c=country&r=country&d=map&f_region=Europe&p=grid&legend=closed)
-We currently have sequences from samples collected across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [데이터 수집 관련 사항](https://nextstrain.org/ncov/europe/2020-05-01?c=country&r=country&d=map&f_region=Europe&p=grid&legend=closed)
+현재 저희는 6개 대륙에서 얻은 분리된 바이러스의 RNA 염기서열 정보를 해독했습니다. 이는 엄청난 성과입니다.큰 RNA 유전체를 가진 미지의 바이러스의 염기서열 정보를 유행 와중에 얻는 것은 굉장히 어렵습니다. 이는 전 세계의 과학자와 의료인들의 신속한 정보공유와 헌신이 아니었다면 불가능했을 것입니다.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+이 데이터를 활용하면 유행의 여러 특성을 실시간으로 유추할 수 있지만 저희의 결론은 현재 활용가능한 데이터에만 국한됩니다.
 <br><br>
-For example, the map shows many samples from Iceland, the U.K., and the Netherlands. This does not necessarily indicate that SARS-CoV-2 is circulating more broadly in these areas; rather, we just have more data available from these countries. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+예를 들어, 아래의 지도는 영국과 네덜란드에서 채취된 바이러스가 매우 적음을 보여줍니다. 이는 그 지역에 코로나19 유행이 없어서도, 다른 지역보다 덜 중요해서도 아닙니다. 단지 그 지역에서 수집된 데이터가 부족하다는 것을 의미합니다. 지도 상의 원의 크기는 그 지역에서 얻은 데이터의 양을 의미할 뿐 실제 유행의 규모와는 무관합니다.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [다수의 유입이 있었던 러시아](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
-Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
+러시아 표본들을 살펴보면, 지리적으로나 (러시아 전역에 걸쳐) 유전학적으로나 (계통수 전반에) 흩어져 분포하고 있습니다. 
 <br><br>
-This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
+이를 통해 러시아의 유행은 한 번의 유입으로 인한 확산이 아닌, 다수의 개별적인 유입으로부터 비롯되었다는 것을 알 수 있습니다.
 <br><br>
-While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
+계통수 하단으로 향하는 아시아 사례들과 밀접한 관련이 있는 표본들이 몇 개 존재하지만, 러시아 사례의 대다수는 유럽 계통을 타고 내려오는 것을 확인할 수 있습니다.
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [외부 유입종이 확산 중인 모스크바](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
-An example of frequent importation can be seen by zooming in on samples from Moscow.
+모스크바 사례를 확대해서 보면, 외부로부터의 유입이 빈번하게 있었던 것으로 보입니다.
 <br><br>
-There are a few clusters of cases which are most closely related to other samples from Moscow, indicating likely local transmission.
-However, most samples from Moscow are most closely related to samples from elsewhere, consistent with importation.
+모스크바의 다른 사례들과 밀접하게 연관된 몇 개의 사례군들은 지역사회 전파 가능성을 시사합니다.
+그러나 대부분의 모스크바 표본들은 다른 지역에서 온 표본들과 가장 밀접한 연관성을 보이는데, 이는 외부로부터 유입되었음을 의미합니다.
 <br><br>
-Given the number of confirmed cases in Moscow, it's likely that at least some of these introductions led to further local spread, but we don't yet have enough data to see this.
+모스크바 확진자 수를 보면, 적어도 이런 유입들 중 일부가 지역 내로 확산됐을 가능성이 높지만, 현재로서는 이를 확인해 줄 데이터가 아직 충분하지 않습니다.
+
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Large outbreak cluster in St. Petersburg, sparked in early March](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [3월 초에 발생한 상트페테르부르크의 대규모 유행 사례군](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
-We can look at St. Petersburg as a counterexample.
+반면 상트페테르부르크는 정반대 사례를 보여줍니다. 
 <br><br>
-As with Moscow, there are samples from St. Petersburg across the tree, indicating that there have been multiple introductions.
-Contrastingly, if you click 'Explore the Data Yourself' and zoom into the main cluster in the center of this view, we can see a large clade that is made up entirely of samples from St. Petersburg.
+모스크바와 마찬가지로, 상트페테르부르크 사례들은 계통수 전반에 걸쳐 분포해 있으며, 이는 여러 번의 유입이 있었음을 의미합니다.
+반대로 'Explore the Data Yourself(화면 우측 상단)'를 클릭하고, 주 사례군을 확대하면 상트페테르부르크 표본들로 구성된 큰 분기군을 볼 수 있습니다.
 <br><br>
-This pattern is consistent with one of these introductions to St. Petersburg taking off to spark widespread transmission across the city, starting around the first week of March. This large outbreak cluster is most closely related to samples from Western Europe, although we cannot rule out the possibility of an unsampled, intermediate transmission from elsewhere.
+이 패턴은 상트페테르부르크로의 유입들 중 하나와 일치하며, 대략 3월 첫째 주부터 도시 전역에 널리 퍼진 것으로 보입니다. 이 대규모 유행 사례군은 서유럽 표본과 가장 밀접한 관련이 있지만, 샘플링되지 않았거나 중간에 다른 지역으로부터 전파되었을 가능성도 있습니다.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Five local transmission chains in the Czech Republic](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [5건의 전파 연쇄가 발견된 체코](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
-The data from the Czech Republic show a mix of these two patterns.
+체코 데이터는 두 가지 패턴의 혼합을 보여줍니다.
 <br><br>
-There are at least 7 instances where a sample isolated in the Czech Republic descends from a virus that was mostly likely circulating elsewhere in Europe, indicating new introductions between March 1 and April 2.
+체코에서 고립된 표본이 유럽의 다른 지역에서 순환했을 가능성이 높은 바이러스로부터 유래된 경우가 적어도 7건 있는데, 이는 3월 1일부터 4월 2일 사이에 새롭게 유입된 것으로 보입니다.
 <br><br>
-For 5 of these introductions, we also see closely related local cases, sampled over time. This is consistent with local transmission.
+이러한 유입들 중 5건이 (여러 날에 걸쳐 수집된) 지역 사례들과 밀접한 연관이 있는 것으로 확인되었고, 이는 지역사회 전파가 있었음을 보여줍니다.
 <br><br>
-From this, we can say that there were at least 7 introductions to the Czech Republic; at least 5 of these likely led to further local transmission.
+이를 통해, 체코로의 유입이 최소 7번 있었고, 이 중 5건이 이후의 지역사회 전파의 발단이 된 것으로 보입니다.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [터키 전역에서 광범위한 뒤섞임이 발생함](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
-In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
-Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.
+계통수 중앙을 보면, 터키 여러 지역에서 채취된 다수의 표본들을 확인할 수 있습니다.
+이러한 표본들 중 일부는 사우디아라비아를 다녀온 적이 있다고 보고했으며, 이후 터키에서 이와 밀접한 관련이 있는 사례들이 발생했습니다.
 <br><br>
-Normally, we might assume that returning travelers had passed the virus to household members or neighbors back home.
-Interestingly, though, the travelers' cases were often sampled from different provinces than the most closely related cases.
+일반적으로 귀국하는 여행객이 가족이나 이웃에게 바이러스를 옮겼다고 가정해 볼 수 있습니다.
+하지만 흥미롭게도, 여행객 사례는 가장 큰 연관성이 있을 것으로 보이는 사례가 아니라, 다른 지방에서 채집된 경우가 종종 있었습니다.
 <br><br>
-This indicates that there has been extensive mixing of viral lineages, reaching many provinces of Turkey within one week.
-We may also speculate that a large gathering could explain these observations, although we would need additional epidemiological data to further investigate.
+이는 바이러스 계통이 광범위하게 뒤섞여 일주일 내로 터키의 여러 지방에 도달했음을 의미합니다.
+추후 조사를 위한 추가적인 역학 데이터가 필요하겠지만, 이 사례들이 대규모 모임으로부터 비롯된 것으로 추측해 볼 수 있습니다.
 <!-- There is no right-side text -->
 
 
@@ -157,55 +160,56 @@ We may also speculate that a large gathering could explain these observations, a
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [At least 11 introductions to Poland](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [최소 11건의 유입이 있었던 폴란드](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
 
-We have 15 sequences from Poland on Nextstrain. Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
-As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.
+Nextstrain은 15건의 폴란드 염기서열 자료를 가지고 있습니다. 이 15건 중, 적어도 11건이 세계의 다른 지역에서 각각 유입된 것으로 보입니다.
+모스크바와 마찬가지로 보고된 확진 사례를 고려했을 때, 이러한 유입들 중 일부가 폴란드 지역사회의 전파 연쇄를 초래했다고 예상해 볼 수도 있습니다. 하지만, 아직 염기서열 자료를 통해서 이를 확인할 수는 없었습니다. 
+
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Early samples from Hungary, Latvia, Slovakia and Slovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [헝가리, 라트비아, 슬로바키아, 슬로베니아의 초기 표본](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
-In March, 20 sequences were submitted from Hungary, Latvia, Slovakia, and Slovenia.
-While we don't yet have enough data from these countries to draw firm conclusions, we applaud these early efforts and will continue to monitor the incoming data.
+3월에 헝가리, 라트비아, 슬로바키아, 슬로베니아로부터 20건의 염기서열 자료가 공유되었습니다.
+아직 이 나라들로부터 확실한 결론을 내릴만한 충분한 자료는 없지만, 이러한 초기의 노력에 박수를 보내며 앞으로 공유되는 데이터를 계속 지켜볼 것입니다.
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### 개인이 할 수 있는 것들   
+* 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
+* 당신이 취약계층이 아니더라도 여러분 주변의 많은 사람들이 그렇다는 것을 기억 하십시오. 이 원칙들을 지켜야 다른 사람들을 보호할 수 있습니다.
+* "당신이 방금 할라피뇨 고추를 썰고난 뒤 콘택트 렌즈를 교체해야만 하는 것처럼" 손을 자주 씻으십시오.
+* 아프면 집에 머무르세요. 자가격리를 대비해 필요한 물자를 미리 비축하십시오.
+* 당신이 고용주라면 직원들이 집에서 일할 수 있도록 해주세요.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### 지도자와 관료들이 할 일   
+* 검사가 무료로 광범위하게 이뤄질 수 있도록 하십시오.
+* 엄격한 사회적 거리두기가 이뤄질 수 있도록 하십시오.
+* 광범위한 접촉 경로 추적과 격리에 재정을 지원하고 실행하십시오.  
+* 사회적 거리두기로 인해 피해를 입은 사람들을 위해 경제적 지원을 해주십시오.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# 기억할 점들
 
-#### SARS-COV-2 has been introduced to Russia many times; Moscow's outbreak is highly heterogeneous.
+#### SARS-COV-2 바이러스가 러시아로 여러 차례 유입되었습니다. 이 중 모스코바의 유행은 외부에서 온 것으로 보입니다.
 <br><br>
-#### There have been multiple introductions to St. Petersburg. One of these introductions, from Western Europe in early March, sparked a large cluster of locally transmitted cases.
+#### 상트페테르부르크로 여러 번의 유입이 있었습니다. 3월 초 서유럽에서 온 유입들 중 하나가 대규모 지역사회 전파 사례군을 형성하는 원인이 되었습니다.
 <br><br>
-#### Following repeated travel-related introductions, there has been extensive and rapid mixing of viral lineages across Turkey.
+#### 반복적인 여행 관련 유입 이후, 터키 전역에서 급속도로 광범위한 바이러스 뒤섞임이 발생했습니다.
 <br><br>
-#### There are at least 5 local transmission chains circulating across the Czech Republic.  
+#### 최소 5건의 전파 연쇄가 체코 내에서 순환 중인 것으로 보입니다.
 <br><br>
-#### There have been at least 11 separate introductions of the virus to Poland.  
+#### 폴란드로 최소 11번의 개별적인 유입이 있었던 것으로 확인되었습니다.
 <br><br>
-#### We have receieved early samples from Hungary, Latvia, Slovakia and Slovenia. While we don't yet have enough data to draw conclusions, we will continue monitoring and provide updates as soon as possible.
+#### 헝가리, 라트비아, 슬로바키아, 슬로베니아에서 초기 표본을 받았습니다. 아직 결론을 내릴 정도의 충분한 데이터는 없지만, 계속해서 지켜볼 것이며, 최대한 빨리 관련 내용을 보고할 예정입니다.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -218,14 +222,13 @@ While we don't yet have enough data from these countries to draw firm conclusion
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [과학적 기여](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+이번 유행에 관련된 모든 과학자들의 대단하고 신속한 작업에 감사를 표합니다. 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 이 분석들은 불가능했을 것입니다.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
+각 연구실에서 제공하는 보다 구체적인 염기서열자료 정보는 [여기](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md) 에서 확인하실 수 있습니다.
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+이 데이터는 [GISAID](https://gisaid.org) 를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
