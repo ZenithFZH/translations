@@ -1,5 +1,6 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+<!--title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.-->
+title: Analisi genomica della diffusione del COVID-19. Rapporto della situazione all'8 maggio 2020.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -18,12 +19,17 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Alessia Lepore
+  - Sara Pilia
 translatorLinks:
+  - https://twitter.com/MEKlab
+  - https://twitter.com/SaraMeiqi
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+<!--abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."-->
+abstract: "Questo rapporto settimanale usa dati genomici condivisi pubblicamente per tracciare la diffusione del COVID-19. Questa settimana, ci concentriamo sull'Asia. Riportiamo molte introduzioni separate in India; contesto per l'epidemia tra i lavoratori migranti a Singapore; la prevelenza di una diffusione internazionale in tutta la regione."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,44 +37,70 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+<!--# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)-->
+# [Sommario](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+<!--* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).-->
+* [Risorse di base](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
+<!--* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).-->
+* [Una nota sulla raccolta dei campioni](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).
+<!--* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).-->
+* [Origini dell'epidemia in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
+<!--* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).-->
+* [Contestualizzazione della ripresa dei casi a Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
+<!--* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).-->
+* [Introduzioni in Malesia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+<!--* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).-->
+* [Frequente diffusione attraverso i confini internazionali](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
+<!--* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).-->
+* [Riconoscimenti Scientifici](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+<!--# Executive summary-->
+# Sommario
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+<!--We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:-->
+Abbiamo analizzato 2226 genomi di COVID-19 condivisi pubblicamente. Comparando questi genomi virali tra loro, possiamo descrivere come il COVID-19 si stia muovendo nel mondo e diffondendosi localmente. Nell'aggiornamento di questa settimana, ci concentriamo sulla recente diffusione in Asia. Riportiamo:
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+<!--* Multiple introductions to Delhi during March 2020 from all over the world-->
+* Introduzioni multiple a Delhi nel march 2020 da tutto il mondo  
+<!--* Many separate introductions to Singapore, most of which do not appear to have spread further-->
+* Molte introduzioni separate a Singapore, la maggior parte delle quali non sembrano essersi diffuse oltre  
+<!--* Expansion of a large cluster of cases in Singapore likely driven by sociological factors-->
+* Espansione di una grosso gruppo di casi a Singapore, probabilmente causato da fattori sociologici
+<!--* Similar patterns of international spread that emphasize the urgent need for cooperative efforts-->
+* Patterns di diffusione internazionale simili che infatizzano l'urgenza di sforzi cooperativi
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+<!--# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+We've prepared some resources that will make interpreting the data we present in this narrative easier.-->
+# [Risorse sul COVID-19 ](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+Abbiamo preparato alcune risorse che faciliteranno l'interpretazione dei dati presentati in questi rapporto.
+<!--#### Nextstrain Resources-->
+#### Risorse Nextstrain  
+<!--* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).-->
+* [INIZIA QUI: Come leggere gli alberi filogenetici](https://nextstrain.org/narratives/trees-background/).  
+<!--* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).-->
+* [Informazioni di base sui virus della famiglia Coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
+<!--* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).-->
+* [Convinzioni errate](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+<!--#### External Resources-->
+#### Risorse esterne  
+<!--* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).-->
+* [Chiedi a uno scienziato e domande frequenti](https://covid19.fas.org/l/en).
+<!--* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).-->
+* [Rapporti dell'OMS sulla situazione](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+<!--* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).-->
+* [Informazioni a cura del CDC (Centers for Disease Control and Prevention).](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+<!--* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).-->
+* [Notizie del New York Times sul COVID-19](https://www.nytimes.com/news-event/coronavirus).
+
 <!-- There is no right-side text -->
 
 
