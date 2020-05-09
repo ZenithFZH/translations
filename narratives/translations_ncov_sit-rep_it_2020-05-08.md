@@ -191,31 +191,48 @@ La frequenza di questo pattern è una prova molto forte del fatto che il virus a
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
+<!-- # [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)-->
+# [Cosa puoi fare](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+
+<!-- #### ...as an individual -->
+#### ...come individuo
+<!-- * Practice strict social distancing, especially if you are in a vulnerable group.
 * Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+* If you are an employer, encourage your employees to work from home wherever possible. -->
+* Praticare rigorosamente il distanziamento sociale, specialmente se fai parte di una categoria vulnerabile.
+* Ricorda che, anche se non fai parte delle categorie vulnerabili, molte persone lo sono; segui queste regole per proteggere gli altri.
+* Lavati le mani "come se avessi appena tagliato un peperoncino e dovessi cambiarti le lenti a contatto."
+* Stai a casa il più possibile -- specialmente se sei malato; prepara delle provviste extra nel caso dovessi metterti in quarantena.
+* Se sei un datore di lavoro, incoraggia i tuoi impiegati a lavorare da casa dove sia possibile.
 
-#### ...as an official  
-* Make testing free and broadly available.  
+
+<!-- #### ...as an official --> 
+#### ...come istituzione
+<!-- * Make testing free and broadly available.  
 * Put strong social distancing measures in place.  
 * Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
-
+* Financially support those impacted by social distancing measures. -->
+* Fai sì che i test siano gratuiti e ampiamente disponibili.
+* Implementa forti misure di distanziamento sociale.
+* Finanzia ed implementa un ampio tracciamento dei contagi.
+* Sostieni finanziariamente coloro che sono interessati dalle misure di distanziamento sociale.
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+<!-- # Takeaways -->
+# Cose da ricordare
 
-#### The outbreak in India is the result of many separate introductions from around the world.  
+<!-- #### The outbreak in India is the result of many separate introductions from around the world.  -->
+#### L'epidemia in India è il risultato di molte introduzioni separate del virus da tutto il mondo. 
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+<!--  #### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.-->
+#### A Singapore, fattori sociologici hanno accellerato la diffusione di una introduzione che ha portato ad un grande focolaio, in contrasto con molteplici introduzioni che non si sono ampiamente diffuse. 
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+<!-- #### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.-->
+#### In Asia, i focolai nella maggiorparte dei paesi hanno una storia simile: molte introduzioni separate da altre nazioni, alcune che hanno portato a diffusione locale del virus. Questo pattern di introduzioni multiple nel tempo sottolinea la necessità di una cooperazione internazionale e regionale per controllare pienamente la pandemia.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -228,20 +245,25 @@ La frequenza di questo pattern è una prova molto forte del fatto che il virus a
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+<!--  # [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)-->
+# [Riconoscimenti scientifici](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+<!-- We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
+Only through the rapid sharing of genomic data and metadata are analyses such as these possible.-->
+Ringraziamo tutti gli scienziati al lavoro su questa epidemia per lo straordinario e tempestivo lavoro fatto. È solo attraverso la rapida condivisione di dati e metadati genomici che analisi come questa sono possibili.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+<!-- The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).-->
+La lista delle specifiche sequenze fornite da ogni laboratorio sono [elencate qui](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+<!-- We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.-->
+Siamo anche grati a GISAID per aver fornito la piattaforma su cui questi dati sono stati caricati e condivisi.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+<!-- We are grateful for the data gathered by these originating labs:-->
+Ringraziamo questi laboratori per le sequenze raccolte:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
