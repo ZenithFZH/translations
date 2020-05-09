@@ -64,7 +64,7 @@ abstract: "Questo rapporto settimanale usa dati genomici condivisi pubblicamente
 Abbiamo analizzato 2226 genomi di COVID-19 condivisi pubblicamente. Comparando questi genomi virali tra loro, possiamo descrivere come il COVID-19 si stia muovendo nel mondo e diffondendosi localmente. Nell'aggiornamento di questa settimana, ci concentriamo sulla recente diffusione in Asia. Riportiamo:
 
 <!--* Multiple introductions to Delhi during March 2020 from all over the world-->
-* Introduzioni multiple a Delhi nel march 2020 da tutto il mondo  
+* Introduzioni multiple a Delhi nel marzo 2020 da tutto il mondo  
 <!--* Many separate introductions to Singapore, most of which do not appear to have spread further-->
 * Molte introduzioni separate a Singapore, la maggior parte delle quali non sembrano essersi diffuse oltre  
 <!--* Expansion of a large cluster of cases in Singapore likely driven by sociological factors-->
@@ -127,7 +127,7 @@ As esempio, la mappa mostra poche sequenze dal Medio Oriente. Ciò non indica ne
 # [Molte introduzioni separate a Delhi nel corso di marzo](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
 <!--Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).-->
-Tra il 1° marzo e il 15 aprile, sono stati raccolti e sequenziati 38 genomi virali dall'area di Delhi area (mostrati qui).
+Tra il 1° marzo e il 15 aprile, sono stati raccolti e sequenziati 38 genomi virali dall'area di Delhi (mostrati qui).
 <br><br>
 <!--In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.-->
 Al centro dell'albero, vediamo un grosso gruppo di casi strettamente correlati. Ciò è coerente con l'ipotesi di una singola introduzione seguita da una diffusione locale nella comunità.
@@ -173,7 +173,7 @@ Ciò illustra quanto la diffusione di un'introduzione all'interno di una popolaz
 # [Ripetute introduzioni in Malesia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
 <!--We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.-->
-Su Nextstrain abbiamo 14 sequenze dalla Malesia, raccolte tra la fine di gennaio e la fine di marzo. Queste sequenze si raggruppano con molti rami diversi, ciascuno dei quali stava circolando soprattutto in altri Paesi asiatici. Ciò suggerisce che ci sono state molteplici introduzioni dalla regione circostante verso la Malesia.there
+Su Nextstrain abbiamo 14 sequenze dalla Malesia, raccolte tra la fine di gennaio e la fine di marzo. Queste sequenze si raggruppano con molti rami diversi, ciascuno dei quali stava circolando soprattutto in altri Paesi asiatici. Ciò suggerisce che ci sono state molteplici introduzioni dalla regione circostante verso la Malesia.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -232,7 +232,7 @@ La frequenza di questo pattern è una prova molto forte del fatto che il virus a
 #### A Singapore, fattori sociologici hanno accellerato la diffusione di una introduzione che ha portato ad un grande focolaio, in contrasto con molteplici introduzioni che non si sono ampiamente diffuse. 
 <br><br>
 <!-- #### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.-->
-#### In Asia, i focolai nella maggiorparte dei paesi hanno una storia simile: molte introduzioni separate da altre nazioni, alcune che hanno portato a diffusione locale del virus. Questo pattern di introduzioni multiple nel tempo sottolinea la necessità di una cooperazione internazionale e regionale per controllare pienamente la pandemia.
+#### In Asia, i focolai nella maggiorparte dei Paesi hanno una storia simile: molte introduzioni separate da altri Stati, alcune che hanno portato a diffusione locale del virus. Questo pattern di introduzioni multiple nel tempo sottolinea la necessità di una cooperazione internazionale e regionale per controllare pienamente la pandemia.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
