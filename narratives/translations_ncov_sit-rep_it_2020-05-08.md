@@ -107,61 +107,85 @@ Abbiamo preparato alcune risorse che faciliteranno l'interpretazione dei dati pr
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+<!--# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.-->
+# [Una nota sulla raccolta dei campioni](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+Al momento abbiamo sequenze raccolte in 28 Paesi in Asia. Questa è un'impresa incredibile, sequenziare un virus con un RNA così grande e sconosciuto nel bel mezzo di una pandemia è difficile ed è stato possibile solamente grazie all'incredibile sforzo e la tempestiva condivisione dei dati da parte di scienziati e medici in tutto il mondo. 
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+<!--While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.-->
+Anche se questi dati ci permettono di inferire statisticamente molte utili caratteristiche dell'epidemia e di tracciare la sua evoluzione in tempo reale, è però importante sottolineare che le nostre conclusioni sono limitate dalla disponibilità di dati.
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+<!--For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.-->
+As esempio, la mappa mostra poche sequenze dal Medio Oriente. Ciò non indica necessariamente che il SARS-CoV-2 sta circolando più ampiamente in queste regioni; piuttosto che abbiamo più sequenze disponibili da queste nazioni. La dimensione di ogni cerchio sulla mappa indica quanti dati sono attualmente disponibili per quell'area, non la vera dimensione dell'epidemia.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+<!--# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)-->
+# [Molte introduzioni separate a Delhi nel corso di marzo](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+<!--Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).-->
+Tra il 1° marzo e il 15 aprile, sono stati raccolti e sequenziati 38 genomi virali dall'area di Delhi area (mostrati qui).
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+<!--In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.-->
+Al centro dell'albero, vediamo un grosso gruppo di casi strettamente correlati. Ciò è coerente con l'ipotesi di una singola introduzione seguita da una diffusione locale nella comunità.
 <br><br>
-However, it is crucial to consider the context of this cluster.  
+<!--However, it is crucial to consider the context of this cluster.  
 Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.-->
+Tuttavia, è cruciale considerare il contesto di questo raggruppamento di casi.  
+Sparsi attraverso l'albero, vediamo anche molti altri piccoli gruppi e casi isolati, che rappresentano introduzioni separate da tutte le parti del mondo.
+Non abbiamo dati sufficienti per dire che cosa è seguito a queste altre introduzioni -- se e quanto si siano diffuse. Però, possiamo dire che il grosso gruppo di casi è solo una parte della storia.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+<!--# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)-->
+# [Contestualizzare il ritorno del SARS-CoV-2 a Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+<!--In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.-->
+Nelle ultime 10 settimane, il SARS-CoV-2 è stato introdotto a Singapore molte volte, da diversi luoghi.
+
 <br><br>
-Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
+<!--Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).-->
+La maggior parte di queste introduzioni hanno portato a una trasmissione limitata (casi singoli o piccoli gruppi sull'albero).
 <br><br>
-In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+<!--In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
+This large, cohesive cluster is most closely related to samples from India and the Philippines.-->
+Al centro dell'albero, tuttavia, vediamo una singola introduzione che ha portato a una trasmissione estesa.
+Questo gruppo largo e connesso è correlato in modo molto stretto con sequenze provenienti dall'India e dalle Filippine.
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+<!--This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.-->
+Ciò è coerente con [le recenti notizie](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) secondo cui il virus si sta diffondendo rapidamente a Singapore tra popolazioni di lavoratori migranti vulnerabili e confinate.
+
 <br><br>
-This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
+<!--This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.-->
+Ciò illustra quanto la diffusione di un'introduzione all'interno di una popolazione dipenda da fattori sociologici ed enfatizza l'enorme importanza di offrire protezione ai gruppi vulnerabili.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+<!--# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)-->
+# [Ripetute introduzioni in Malesia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+<!--We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.-->
+Su Nextstrain abbiamo 14 sequenze dalla Malesia, raccolte tra la fine di gennaio e la fine di marzo. Queste sequenze si raggruppano con molti rami diversi, ciascuno dei quali stava circolando soprattutto in altri Paesi asiatici. Ciò suggerisce che ci sono state molteplici introduzioni dalla regione circostante verso la Malesia.there
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+<!--# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)-->
+# [Diffusione regionale attraverso l'Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam
+<!--A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam.-->
+Un pattern simile si ripete in molti altri Paesi nella regione: introduzioni multiple, molte delle quali erano ben contenute, ma che occasionalmente sono riuscite a innescare trasmissioni locali. Ti incoraggiamo a "Esplora i Dati Autonomamente". Com'è mostrato qui, potrai osservare pattern simili in Giordania, Giappone, Thailandia, e negli Emirati Arabi Uniti. Pattern simili possono anche essere osservati nel caso del Kuwait, della Georgia, di Taiwan, e del Vietnam.
 <br><br>
-The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.
+<!--The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.-->
+La frequenza di questo pattern è una prova molto forte del fatto che il virus attraversi frequentemente i confini internazionali. Dunque, per controllare in modo efficace l'epidemia in ciascun Paese, dobbiamo controllare la pandemia in tutti gli Stati attraverso sforzi internazionali coordinati.
 <!-- There is no right side text -->
 
 
