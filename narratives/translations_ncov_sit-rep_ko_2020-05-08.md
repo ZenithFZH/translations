@@ -18,12 +18,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Taehoon Ha
 translatorLinks:
+  - https://taehoonh.github.io/
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+abstract: "이 주간 보고서는 공개된 유전체 정보를 이용해 코로나19의 전파를 추적합니다. 이번 주, 저희는 아시아에 초점을 맞추어 보았습니다. 저희는 다수의 개별적/독립적 유입이 발생한 인도, 싱가포르 이주 노동자들 간에 발생한 유행에 대한 전후상황, 그리고 지역 전반에 걸쳐 발생한 국제적인 확산을 보고합니다."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,135 +33,135 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [목차](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
+* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
+* [인도 유행의 기원](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
+* [싱가폴 확진사례 재증가에 대한 전후상황 파악](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
+* [말레이시아로의 유입](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [자주 국경을 넘어 확산됨](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
+* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 개요
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+저희는 2,226개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계와 지역 내에서 곳곳으로 퍼지고 있는지 분석할 수 있습니다. 이번 주, 저희는 최근의 아시아 확산에 초점을 맞추어 보았습니다. 다음 내용을 새롭게 추가합니다:
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+* 2020년 3월 동안 전 세계로부터 델리로 다수의 유입이 발생함
+* 싱가포르로 다수의 개별적인 유입이 있었지만, 대부분 더 이상 확산되지 않은 것으로 보임
+* 사회적 요인으로부터 비롯되었을 가능성이 높은 싱가포르의 대규모 사례군 확대
+* 협력의 시급성을 보여주는 유사한 국제 확산 패턴
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+이 정보들은 저희가 이 보고서에서 제시한 내용을 이해하는데 도움을 줄 것입니다.
+#### Nextstrain 관련자료  
+* [여기부터 시작하세요: 계통수를 읽는 법](https://nextstrain.org/narratives/trees-background/ko).  
+* [코로나바이러스 관련 배경지식](https://nextstrain.org/help/coronavirus/human-CoV).
+* [흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### 외부 자료  
+* [과학자에게 물어보세요 & 자주 묻는 질문](https://covid19.fas.org/l/en).
+* [WHO 상황 보고서](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [미국 질병통제예방센터에서 제공하는 자료](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [뉴욕타임즈 코로나19 커버리지](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [데이터 수집 관련 사항](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+현재 저희는 아시아의 28개국에서 얻은 분리된 바이러스의 RNA 염기서열 정보를 해독했습니다. 이는 엄청난 성과입니다.큰 RNA 유전체를 가진 미지의 바이러스의 염기서열 정보를 유행 와중에 얻는 것은 굉장히 어렵습니다. 이는 전 세계의 과학자와 의료인들의 신속한 정보공유와 헌신이 아니었다면 불가능했을 것입니다.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+이 데이터를 활용하면 유행의 여러 특성을 실시간으로 유추할 수 있지만 저희의 결론은 현재 활용가능한 데이터에만 국한됩니다.
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+예를 들어, 아래의 지도는 중동에서 채취된 바이러스가 매우 적음을 보여줍니다. 이는 그 지역에 코로나19 유행이 없어서도, 다른 지역보다 덜 중요해서도 아닙니다. 단지 그 지역에서 수집된 데이터가 부족하다는 것을 의미합니다. 지도 상의 원의 크기는 그 지역에서 얻은 데이터의 양을 의미할 뿐 실제 유행의 규모와는 무관합니다.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [3월에 다수의 개별적인 유입이 있었던 델리](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+3월 1일부터 4월 15일 사이에 델리 지역에서 온 38건의 염기서열 자료(녹색으로 표시된)를 채취하여 해독했습니다. 
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+계통수 중간에, 서로 밀접한 연관이 있는 사례로 구성된 상당한 규모의 사례군이 있습니다. 이는 1건의 유입과 이후에 이어진 지역사회 확산과 일치합니다.
 <br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+하지만 이 사례군의 맥락을 고려하는 것이 중요합니다. 계통수 전반에 걸쳐 다수의 작은 사례군들과 고립된 사례들을 볼 수 있는데, 이는 전 세계로부터 개별적인 유입이 있었음을 의미합니다.
+현재 저희는 이런 유입들이 무엇으로부터 비롯된 것인지, 얼마나 퍼졌는지에 대한 충분한 자료가 없습니다. 하지만, 이 대규모 사례군은 이 모든 이야기의 일부에 불과하다고 할 수 있을 것입니다.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [싱가폴 확진사례 재증가에 대한 전후상황 파악](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+지난 10주 동안 SARS-CoV-2가 여러 곳으로부터 싱가포르에 수차례 유입되었습니다.
 <br><br>
-Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
+이 유입의 대부분은 제한적인 전파(단일 사례 또는 계통수의 작은 사례군)로 끝났습니다.
 <br><br>
-In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+하지만, 계통수 중간에서 1건의 유입을 확인할 수 있는데, 이 유입이 광범위하고 지속적인 전파로 이어졌습니다.
+이 대규모의 응집력 강한 사례군은 인도와 필리핀 표본들과 매우 밀접한 연관성을 보입니다.
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
-<br><br>
-This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
+이것은 싱가포르의 제한된 공간에서 생활하는 취약 계층 이민 노동자들 사이에서 바이러스가 빠르게 확산되고 있다는 [최근의 보도](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) 와 일치합니다.
+<br> <br>
+이는 인구 집단 내에서 유입이 확산되는 정도가 사회학적 요인에 따라 어떻게 달라질 수 있는지를 보여주는 것이며, 취약 계층을 보호하는 것이 왜 중요한지를 알려주고 있습니다.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [반복적인 유입이 있었던 말레이시아](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+Nextstrain은 1월 말에서 3월 말 사이에 채취된 14건의 말레이시아 표본이 있습니다. 이 사례들은 몇몇의 서로 다른 분기군들과 묶여 있으며, 각각의 분기군은 주로 다른 아시아 국가에서 순환하고 있는 것들입니다. 이는 주변 지역에서 말레이시아로 여러 번 유입이 있었음을 의미합니다.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [아시아 전반에 걸쳐 일어난 지역 전파](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam
+유사한 패턴이 다른 여러 나라의 지역에서 반복되고 있습니다: 여러 번의 유입이 있었고, 그 중 대다수는 확산 되는 것을 잘 막았지만, 일부가 지역사회 전파를 촉발시켰습니다. 저희는 "Explore the Data Yourself"를 클릭하여 살펴보기를 권장합니다. 이 슬라이드를 살펴보면 요르단, 일본, 태국, 아랍에미레이트에서의 유사한 패턴을 확인할 수 있습니다. 또한 이 비슷한 패턴은 쿠웨이트, 조지아, 대만, 베트남에서도 확인이 됩니다.
 <br><br>
-The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.
+이렇게 패턴이 일관성을 보이는 것은 바이러스가 빈번하게 국경을 넘어 전파되었다는 것을 알려주는 강력한 증거입니다.
+따라서, 한 나라가 전염병을 효과적으로 통제하기 위해서는 잘 짜여진 국제적 협력을 통해서 모든 국가의 전염병을 통제해야 합니다.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### 개인이 할 수 있는 것들   
+* 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
+* 당신이 취약계층이 아니더라도 여러분 주변의 많은 사람들이 그렇다는 것을 기억 하십시오. 이 원칙들을 지켜야 다른 사람들을 보호할 수 있습니다.
+* "당신이 방금 할라피뇨 고추를 썰고난 뒤 콘택트 렌즈를 교체해야만 하는 것처럼" 손을 자주 씻으십시오.
+* 아프면 집에 머무르세요. 자가격리를 대비해 필요한 물자를 미리 비축하십시오.
+* 당신이 고용주라면 직원들이 집에서 일할 수 있도록 해주세요.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### 지도자와 관료들이 할 일  
+* 검사가 무료로 광범위하게 이뤄질 수 있도록 하십시오.
+* 엄격한 사회적 거리두기가 이뤄질 수 있도록 하십시오.
+* 광범위한 접촉 경로 추적과 격리에 재정을 지원하고 실행하십시오.  
+* 사회적 거리두기로 인해 피해를 입은 사람들을 위해 경제적 지원을 해주십시오.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# 기억할 점들
 
-#### The outbreak in India is the result of many separate introductions from around the world.  
+#### 인도의 유행은 전세계로부터 온 다수의 개별적인 유입으로부터 비롯되었습니다.
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+#### 싱가포르에서는 사회적 요인으로 인해 한 번의 유입이 확대되어 대규모 유행으로 가속화되었습니다. 이는 널리 퍼지지 않은 다수의 다른 유입들과는 대조적입니다.
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+#### 아시아에서는 대다수 국가들의 유행이 비슷한 경향을 보였습니다. 다른 나라로부터 온 다수의 개별적인 유입 그리고 그 중 일부는 지역 확산으로 이어졌습니다. 시간이 지남에 따라 여러 번 유입되는 이러한 패턴은 전염병을 완전히 통제하기 위한 국제적 및 지역적 협력의 필요성을 강조합니다.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -172,14 +174,13 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [과학적 기여](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+이번 유행에 관련된 모든 과학자들의 대단하고 신속한 작업에 감사를 표합니다. 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 이 분석들은 불가능했을 것입니다.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+각 연구실에서 제공하는 보다 구체적인 염기서열자료 정보는 [여기](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca) 에서 확인하실 수 있습니다.
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+이 데이터는 [GISAID](https://gisaid.org) 를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
