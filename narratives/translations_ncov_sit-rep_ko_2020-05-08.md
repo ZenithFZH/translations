@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: COVID-19 확산에 대한 유전체 분석. 2020년 5월 8일 상황 보고서
 authors:
   - Cassia Wagner
   - Sidney M. Bell
