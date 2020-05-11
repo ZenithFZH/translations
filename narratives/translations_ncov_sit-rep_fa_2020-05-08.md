@@ -21,8 +21,8 @@ translators:
   - Alireza Zamanidahaj
   - Mahan Ghafari
 translatorLinks:
-  - @dahaj1897
-  -@Mahan_Ghafari
+  - https://twitter.com/dahaj1897
+  - https://twitter.com/Mahan_Ghafari
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
@@ -47,7 +47,7 @@ abstract: "گزارش این هفته از داده‌های کویید-۱۹ ک�
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# گزارش اجرایی
 
 ما ژنوم ۴۴۴۲ کوید-۱۹ که به طور عمومی در دسترس هستند را تجزیه و تحلیل کرده‌ایم. با مقایسه‌ی این ژنوم‌ها ما می‌توانیم چگونگی حرکت کوید-۱۹ در دنیا و پخش‌شدن محلی آنرا مشخض کنیم. در بروز رسانی این هفته ما بر گسترش همه‌گیری در سراسر آسیا تمرکز می‌کنیم: 
 ​
@@ -60,112 +60,113 @@ abstract: "گزارش این هفته از داده‌های کویید-۱۹ ک�
 
 
 <!-- ############ SLIDE BREAK ############# -->
-
+​
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
-
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+# [منابع کووید-۱۹](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+ما  تعدادی منابع گرداوری کرده‌ایم که تفسیر داده‌های این گزارش را راحتتر می‌کنند: 
+#### منابع نکست استرین  
+* [چگونه فیلوژنتیک را بخوانیم](https://nextstrain.org/narratives/trees-background/).  
+* [پیشزمینه در مورد کوروناویروس ها](https://nextstrain.org/help/coronavirus/human-CoV).
+* [اشتباهات متداول](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+​
+#### منابع خارجی
+* [سوالات متداول](https://covid19.fas.org/l/en).
+* [گزارش وضعیت سازمان جهانی بهداشت](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [منابع سی‌دی‌سی](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [پوشش نیویورک تایمز از کوید-۱۹](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
-
-
+​
+​
 <!-- ############ SLIDE BREAK ############# -->
-
+​
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [نکته‌ای در مورد نمونه گیری](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+ما نمونه‌های ویروس از ۲۸ کشور در آسیا داریم. Tاین یک شاهکار باورنکردنی است. نمونه گیری از توالی ژنتیکی یک ویروس بزرگ آر ان ای ناشناخته در وسط یک همه گیری جهانی دشوار است و فقط با تلاش باورنکردنی و به اشتراک گذاری به موقع داده‌ها توسط دانشمندان و پزشکان در سراسر جهان امکان پذیر است 
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+در حالی که این داده ها به ما این امکان را می دهد که بسیاری از خصوصیات مهم این شیوع را استنباط کرده و موقعیت زمانی و مکانی آن را ردیابی کنیم ، تأکید می شود که نتیجه گیری های ما  محدود به دادهای موجود است
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
-
+برای مثال، نقشه موارد کمی در خاورمیانه نشان می‌دهد. این نشان دهنده‌ی عدم شیوع و گردش کوید-۱۹ در این منطقه یا اهمیت نداشتن دانستن آنها نیست. بلکه ما داده‌های زیادی از این ناحیه نداریم. اندازه‌ی هر دایره روی نقشه بیانگر میزان داده‌های در دسترس از آن منطقه هست نه گستردگی واقعی همه‌گیری. 
 <!-- There is NO right-side text -->
-
-
+​
+​
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
-
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+# [موارد جداگانه‌ی ورود به دهلی در طی ماه مارس](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+​
+در فاصله ی اول ماه مارس و ۱۵ آپریل ۳۸ مورد نمونه ي توالی ژنتیکی از دهلی نمونه‌گیری شده است. 
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+در وسط درخت ما یک خوشه با اندازه‌ی قابل توجه از موارد شبیه به هم را می‌بینیم. این با یک مورد ورود ویروس و سپس انتقال محلی سازگار هست. 
 <br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+اما مهم هست که زمینه‌ی این خوشه را نیز در نظر داشته باشیم
+در سرتاسر درخت ما خوشه های کوچک و موارد مجرد را می‌بینیم که نشان دهنده‌ی ورود جداگانه‌ی ویروس از سرتاسر دنیا می‌باشد. 
+ما داده‌های کافی برای پیگیری همه‌ی این موارد و میزان گسترش آنها را نداریم اما می‌توانیم بگوییم که خوشه ی بزرگ فقط بخشی از کل ماجرا هست. 
 <!-- There is no right side text -->
-
-
+​
+​
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
-
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+# [درک اوج گیری دوباره‌ی همه‌گیری در سنگاپور](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+​
+در ۱۰ هفته‌ی گذشته سارس-کو-۲ تعداد دفعات زیادی از مناطق مختلفی وارد سنگاپور شده است.
 <br><br>
-Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
+بیشتر این موارد منتج به گسترش بسیار محدود شده‌اند (موارد مجرد یا خوشه‌های کوچک در درخت).
 <br><br>
-In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+در میانه‌ی‌ درخت اما ما شاهد یه مورد ورود هستیم که منجر به شیوع گسترده شده است.
+خوشه‌ی بزرگ بیشترین شباهت را به نمونه‌های هند و فیلیپین دارد.
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+این مشاهده‌ سازگار با [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) شیوع سریع ویروس بین جمعیت آسیب پذیر کارگران مهاجر در سنگاپور هست.
 <br><br>
-This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
+این نشان دهنده‌ي میزان تاثیر فاکتورهای جامعه‌شناسی پر مورد شیوع یک مورد ورود در یک جمعیت و اهمیت مراقبت از گروه های آسیب پذیر هست.
 <!-- There is no right side text -->
-
-
+​
+​
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
-
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
-
-
+# [ورود مکرر به مالزی](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+​
+ما ۱۴ نمونه از مالزی در نکست استرین داریم که از ژانویه تا مارس نمونه گیری شده‌اند. این نمونه‌ها با شاخه‌‌های دیگری که در دیگر نقاط مختلف آسیا در گردش بودند در یک گروه قرار می‌گیرند که نشان دهنده‌ی ورود مکرر ویروس از مناطق اطراف مالزی می‌باشد.
+​
+​
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
-
-A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam
+# [گسترش محلی در سرتاسر آسیا](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+​
+الگوی مشابهی در کشورهای زیادی در منطقه مشاهده می‌شود: موارد مکرر ورود که تعداد زیادی از آنها کنترل شدند اما یک یا چند مورد محدود باعث شروع گسترش محلی شده‌اند. ما شما را تشویق می‌کنیم که «خودتان دادها را بررسی کنید». همانطور که در اینجا نشان داده شده است الگوی مشابهی در مورد ژاپن، اردن، تایلند و امارات متحده تکرار شده است. همین الگو در مورد کویت، گرجستان، تایوان و ویتنام قابل مشاهده است.
 <br><br>
-The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.
+تکرار این الگو بیانگر انتقال مکرر ویروس از مرزهای بین‌ المللی می‌باشد. بنابراین برای کنترل موُثر اپیدمی در هر کشوری ما باید پندمیک را در همه‌ی کشورها از طریق همکاری و تلاش بین المللی کنترل کنیم. 
 <!-- There is no right side text -->
-
-
+​
+​
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
-
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
-
-
+# [شما چکار می‌توانید انجام دهید](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+####...به صورت انفرادی
+* عمل به فاصله گیری اجتماعی بصورت سختگیرانه، مخصوصاً اگر در گروه‌های پر خطر قرار دارید.
+* به یاد داشته باشید حتی اگر شما در هیچ گروه پر خطری نیستید، بسیاری از افراد در اطراف شما در خطر هستند. از این موارد پیروی کنید تا از دیگران مراقبت کرده باشید.  
+* دست های خود را بشویید به صورتی که انگار «یک فلفل خورد کرده‌اید و حالا باید لنز چشم خود را عوض کنید. 
+* تا حد ممکن در خانه بمانید - مخصوصاً اگر مریض هستید. مایحتاج لازم برای قرنطینه در صورت لزوم را داشته باشید
+* اگر کارفرما هستید، کارمندان خود را ترقیب کنید تا حد ممکن از خانه کار کنند. 
+​
+#### ... به عنوان یک مسئول
+* تست را مجانی و بصورت وسیع در دسترس قرار دهید. 
+* تدابیر قوی برای فاصله گیری اجتماعی به اجرا در بیاورید.  
+* بودجه و اقدامات اجرایی برای ردیابی جامع تماس‌ها فراهم کنید
+* از افرادی که تحت تاثیر فاصله گیری اجتماعی قرار گرفته‌اند به صورت مالی حمایت کنید. 
+​
+​
 <!-- This is the right-side text -->
-
+​
 ```auspiceMainDisplayMarkdown
-# Takeaways
-#### The outbreak in India is the result of many separate introductions from around the world.  
+# نتیجه گیری
+​
+#### همه گیری در هند نتیجه ی تعداد زیادی ورود مستقل ویروس از نقاط مجتلف می‌باشد. 
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+#### در سنگاپور دلایل جامعه شناسی باعث تسریع گسترش یک مورد ورود و تبدیل آن به یک همه گیری شد در حالی که موارد متعدد ورود به صورت گسترده شیوع پیدا نکردند.
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+#### در بیشتر کشورهای آسیایی ما شاهد یه تاریخچه‌ي مشابه هستیم: ورود متعدد ویروس از کشورهای مختلف که تعدادی از آنها باعث انتقال محلی شده‌اند. این اگوی ورود متعدد در طی زمان نشان دهنده‌ي لزوم همکاری بین ‌المللی و منطقه‌ای برای کنترل کامل همه‌گیری می‌باشد. 
 ```
-
+```
+​
 <!-- ############ SLIDE BREAK ############# -->
 
 
