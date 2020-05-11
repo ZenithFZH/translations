@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: آنالیز ژنتیکی شیوع ویروس کووید-۱۹. شرح گزارش ۸ می ۲۰۲۰.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -18,12 +18,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Alireza Zamanidahaj
+  - Mahan Ghafari
 translatorLinks:
+  - @dahaj1897
+  -@Mahan_Ghafari
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+abstract: "گزارش این هفته از داده‌های کویید-۱۹ که در اختیار عموم گذاشته‌شده برای بررسی شیوع این بیماری استفاده می‌کند. این هفته بر آسیا تمرکز می‌کنیم. بررسی ما گزارشی از چندین ورود مستقل یبماری به هند؛ شیوع ویروس بین کارگران مهاجر از سنگاپور؛ و گستردگی شیوع بین‌المللی در کل منطقه است."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,25 +35,28 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [فهرست مطالب](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [منابع پیش زمینه](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
+* [در مورد این داده ها](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
+* [خاستگاه همه‌گیری در هند](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
+* [درک اوج گیری دوباره‌ی همه‌گیری در سنگاپور](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
+* [ورود همه‌گیری به مالزی](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [گسترش متعدد از مرزهای بین المللی](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
+* [اعتبار علمی](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # Executive summary
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+
+ما ژنوم ۴۴۴۲ کوید-۱۹ که به طور عمومی در دسترس هستند را تجزیه و تحلیل کرده‌ایم. با مقایسه‌ی این ژنوم‌ها ما می‌توانیم چگونگی حرکت کوید-۱۹ در دنیا و پخش‌شدن محلی آنرا مشخض کنیم. در بروز رسانی این هفته ما بر گسترش همه‌گیری در سراسر آسیا تمرکز می‌کنیم: 
+​
+* تعداد زیادی ورود بیماری به دهلی در ماه مارس از سراسر دنیا  
+* تعداد زیادی ورود بیماری به سنگاپور که بیشتر آنها پیشروی نداشته‌اند.  
+* گسترش یک خوشه‌ی بزرگ در سنگاپور که احتمالاً به دلایل جامعه شناسی
+* الگوهای مشترک گسترش بین المللی و ضرورت همکاری فوری
 ```
+
 
 
 <!-- ############ SLIDE BREAK ############# -->
