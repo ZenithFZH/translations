@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: آنالیز ژنتیکی شیوع ویروس کووید-۱۹. شرح گزارش ۸ می ۲۰۲۰.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -17,13 +17,17 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
+translators: 
+  - Alireza Zamanidahaj
+  - Mahan Ghafari
 translatorLinks:
+  - @dahaj1897
+  - @Mahan_Ghafari
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
-
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+ 
+abstract: "گزارش این هفته از داده‌های کویید-۱۹ که در اختیار عموم گذاشته‌شده برای بررسی شیوع این بیماری استفاده می‌کند. این هفته بر آسیا تمرکز می‌کنیم. بررسی ما گزارشی از چندین ورود مستقل یبماری به هند؛ شیوع ویروس بین کارگران مهاجر از سنگاپور؛ و گستردگی شیوع بین‌المللی در کل منطقه است."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,71 +35,70 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [فهرست مطالب](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [منابع پیش زمینه](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
+* [در مورد این داده‌ها](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
+* [خاستگاه همه‌گیری در هند](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
+* [درک اوج‌گیری دوباره‌ی همه‌گیری در سنگاپور](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
+* [ورود همه‌گیری به مالزی](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [گسترش متعدد از مرزهای بین المللی](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
+* [اعتبار علمی](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # Executive summary
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
-
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+ا ژنوم ۴۴۴۲ کوید-۱۹ که به طور عمومی در دسترس هستند را تجزیه و تحلیل کرده‌ایم. با مقایسه‌ی این ژنوم‌ها ما می‌توانیم چگونگی حرکت کوید-۱۹ در دنیا و پخش‌شدن محلی آنرا مشخض کنیم. در بروز رسانی این هفته ما بر گسترش همه‌گیری در سراسر آسیا تمرکز می‌کنیم: 
+​
+* تعداد زیادی ورود بیماری به دهلی در ماه مارس از سراسر دنیا  
+* تعداد زیادی ورود بیماری به سنگاپور که بیشتر آنها پیشروی نداشته‌اند.  
+* گسترش یک خوشه‌ی بزرگ در سنگاپور که احتمالاً به دلایل جامعه شناسی
+* الگوهای مشترک گسترش بین‌المللی و ضرورت همکاری فوری
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
-
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+# [منابع کووید-۱۹](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+ما  تعدادی منابع گرداوری کرده‌ایم که تفسیر داده‌های این گزارش را راحتتر می‌کنند: 
+#### منابع نکست استرین  
+* [چگونه فیلوژنتیک را بخوانیم](https://nextstrain.org/narratives/trees-background/fa).  
+* [پیشزمینه در مورد کوروناویروس ها](https://nextstrain.org/help/coronavirus/human-CoV).
+* [اشتباهات متداول](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+​
+#### منابع خارجی
+* [سوالات متداول](https://covid19.fas.org/l/en).
+* [گزارش وضعیت سازمان جهانی بهداشت](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [منابع سی‌دی‌سی](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [پوشش نیویورک تایمز از کوید-۱۹](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [نکته‌ای در مورد نمونه گیری](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+ما نمونه‌های ویروس از ۲۸ کشور در آسیا داریم. Tاین یک شاهکار باورنکردنی است. نمونه گیری از توالی ژنتیکی یک ویروس بزرگ آر ان ای ناشناخته در وسط یک همه گیری جهانی دشوار است و فقط با تلاش باورنکردنی و به اشتراک گذاری به موقع داده‌ها توسط دانشمندان و پزشکان در سراسر جهان امکان پذیر است 
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+در حالی که این داده ها به ما این امکان را می دهد که بسیاری از خصوصیات مهم این شیوع را استنباط کرده و موقعیت زمانی و مکانی آن را ردیابی کنیم ، تأکید می شود که نتیجه گیری های ما  محدود به دادهای موجود است
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
-
+برای مثال، نقشه موارد کمی در خاورمیانه نشان می‌دهد. این نشان دهنده‌ی عدم شیوع و گردش کوید-۱۹ در این منطقه یا اهمیت نداشتن دانستن آنها نیست. بلکه ما داده‌های زیادی از این ناحیه نداریم. اندازه‌ی هر دایره روی نقشه بیانگر میزان داده‌های در دسترس از آن منطقه هست نه گستردگی واقعی همه‌گیری. 
 <!-- There is NO right-side text -->
-
-
+​
+​
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
-
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+# [موارد جداگانه‌ی ورود به دهلی در طی ماه مارس](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+​
+در فاصله ی اول ماه مارس و ۱۵ آپریل ۳۸ مورد نمونه ي توالی ژنتیکی از دهلی نمونه‌گیری شده است. 
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+در وسط درخت ما یک خوشه با اندازه‌ی قابل توجه از موارد شبیه به هم را می‌بینیم. این با یک مورد ورود ویروس و سپس انتقال محلی سازگار هست. 
 <br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+اما مهم هست که زمینه‌ی این خوشه را نیز در نظر داشته باشیم
+در سرتاسر درخت ما خوشه های کوچک و موارد مجرد را می‌بینیم که نشان دهنده‌ی ورود جداگانه‌ی ویروس از سرتاسر دنیا می‌باشد. 
+ما داده‌های کافی برای پیگیری همه‌ی این موارد و میزان گسترش آنها را نداریم اما می‌توانیم بگوییم که خوشه ی بزرگ فقط بخشی از کل ماجرا هست. 
 <!-- There is no right side text -->
 
 
