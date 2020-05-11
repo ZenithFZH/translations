@@ -111,7 +111,7 @@ abstract: "이 주간 보고서는 공개된 유전체 정보를 이용해 코�
 하지만, 계통수 중간에서 1건의 유입을 확인할 수 있는데, 이 유입이 광범위하고 지속적인 전파로 이어졌습니다.
 이 대규모의 응집력 강한 사례군은 인도와 필리핀 표본들과 매우 밀접한 연관성을 보입니다.
 <br><br>
-이것은 싱가포르의 제한된 공간에서 생활하는 취약 계층 이민 노동자들 사이에서 바이러스가 빠르게 확산되고 있다는 [최근의 보도](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) 와 일치합니다.
+이것은 싱가포르의 소외된 취약 계층 이민 노동자들 사이에서 바이러스가 빠르게 확산되고 있다는 [최근의 보도](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) 와 일치합니다.
 <br> <br>
 이는 인구 집단 내에서 유입이 확산되는 정도가 사회적 요인에 따라 어떻게 달라질 수 있는지를 보여주는 것이며, 취약 계층을 보호하는 것이 왜 중요한지를 알려주고 있습니다.
 <!-- There is no right side text -->
